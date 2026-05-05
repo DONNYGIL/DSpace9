@@ -44,4 +44,3 @@ Basado en mi experiencia como **Consultor Técnico Senior** en LA Referencia / R
 
 ---
 
-## 📁 Estructura del proyecto
